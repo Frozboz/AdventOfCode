@@ -1,0 +1,7 @@
+C:\src\Personal\AdventOfCode\AOC2022\DaySeven\NoSpace\NoSpace\bin\Debug\NoSpace.exe.config
+C:\src\Personal\AdventOfCode\AOC2022\DaySeven\NoSpace\NoSpace\bin\Debug\NoSpace.exe
+C:\src\Personal\AdventOfCode\AOC2022\DaySeven\NoSpace\NoSpace\bin\Debug\NoSpace.pdb
+C:\src\Personal\AdventOfCode\AOC2022\DaySeven\NoSpace\NoSpace\obj\Debug\NoSpace.csprojAssemblyReference.cache
+C:\src\Personal\AdventOfCode\AOC2022\DaySeven\NoSpace\NoSpace\obj\Debug\NoSpace.csproj.CoreCompileInputs.cache
+C:\src\Personal\AdventOfCode\AOC2022\DaySeven\NoSpace\NoSpace\obj\Debug\NoSpace.exe
+C:\src\Personal\AdventOfCode\AOC2022\DaySeven\NoSpace\NoSpace\obj\Debug\NoSpace.pdb
